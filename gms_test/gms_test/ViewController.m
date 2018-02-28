@@ -17,7 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     NSLog(@"我哦 水电费看速度快");
-    NSLog(@"gms 分支");
+    NSLog(@"gms 分支 我就看看");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
