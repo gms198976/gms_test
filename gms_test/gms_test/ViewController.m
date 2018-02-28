@@ -16,6 +16,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    NSLog(@"我哦 水电费看速度快");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
